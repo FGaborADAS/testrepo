@@ -1,0 +1,11 @@
+- psmono_mp3psa_dev
+dataset_
+- VEH_RB_SPA_KR_Honda_CRV_MY19_180_9208
+- vehicleData_cameraPitchAngle = 0.0 -> 0.013
+- vehicleData_cameraHeightOverGround = 1,493 -> 1.423
+- rdp_enabled_by_parameter_b = 0 -> 1
+- ciuPreFillIsEnabled = 0 -> 1
+- ciuEbaIsEnabled = 0 -> 1
+- ciuAebIsEnabled = 0 -> 1
+- vruPreFillIsEnabled = 0 -> 1
+- vruAebIsEnabled = 0 -> 1
